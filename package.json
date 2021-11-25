@@ -1,0 +1,15 @@
+{
+  "name": "deploy-resto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": " gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://resto.github.io.git",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
